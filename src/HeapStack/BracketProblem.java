@@ -9,6 +9,7 @@ public class BracketProblem {
 	public Stack<String> stackS;
 	public ArrayList<String> questionStringList = new ArrayList<String>();
 	int[] flag;
+	
 	//·ûºÅÉèÖÃ
 	public final char CPlus = '+';
 	public final char CMinus = '-';
